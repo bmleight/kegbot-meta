@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "strangeluv-native": "git@github.com:bmleight/kegbot-strangluv-native.git",
+    "strangeluv": "git@github.com:bmleight/kegbot-strangeluv.git",
+    "arduino": "git@github.com:bmleight/kegbot_arduino.git",
+    "api": "git@github.com:bmleight/kegbot-api.git",
+    "cordova": "git@github.com:bmleight/kegbot_cordova.git"
+  }
+}
