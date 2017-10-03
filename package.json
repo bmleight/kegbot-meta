@@ -1,0 +1,23 @@
+{
+  "name": "kegbot-meta",
+  "version": "0.0.1",
+  "description": "Kegbot meta repo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "meta-npm": "0.0.22"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmleight/kegbot-meta.git"
+  },
+  "author": "bmleight@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmleight/kegbot-meta/issues"
+  },
+  "homepage": "https://github.com/bmleight/kegbot-meta#readme"
+}
